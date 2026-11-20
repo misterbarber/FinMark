@@ -1,0 +1,50 @@
+name: Refresh FinMark data
+
+on:
+  schedule:
+    # Latest prices every 15 minutes, Sunday 22:00 UTC to Friday 22:00 UTC
+    - cron: "7,22,37,52 * * * 1-5"
+    - cron: "7,22,37,52 22-23 * * 0"
+    # Full 10-year history rebuild once a day after the US close
+    - cron: "41 22 * * 1-5"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "full or quotes"
+        default: "full"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: finmark-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+      - run: pip install -r pipeline/requirements.txt
+      - name: Fetch
+        run: |
+          MODE="${{ github.event.inputs.mode }}"
+          if [ -z "$MODE" ]; then
+            if [ "${{ github.event.schedule }}" = "41 22 * * 1-5" ]; then MODE=full; else MODE=quotes; fi
+          fi
+          python pipeline/fetch_data.py "$MODE"
+      - name: Commit if changed
+        run: |
+          git config user.name "finmark-bot"
+          git config user.email "finmark-bot@users.noreply.github.com"
+          git add data/finmark-data.json
+          if git diff --cached --quiet; then echo "No change"; exit 0; fi
+          git commit -m "Data refresh $(date -u +%Y-%m-%dT%H:%MZ)"
+          git pull --rebase --autostash
+          git push
