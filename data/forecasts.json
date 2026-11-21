@@ -1,0 +1,606 @@
+{
+ "updated": "2026-11-20",
+ "items": {
+  "spx": [
+   {
+    "firm": "Goldman Sachs",
+    "target": 8700,
+    "by": "2027-12-31",
+    "pub": "2026-11-17",
+    "src": [
+     {
+      "name": "TheStreet",
+      "url": "https://www.thestreet.com/investing/stocks/goldman-sachs-expects-sp-500-return-8700-investors-2027"
+     },
+     {
+      "name": "MarketScreener",
+      "url": "https://www.marketscreener.com/news/goldman-sachs-and-morgan-stanley-reveal-their-bets-for-2027-ce785eddd98bf027"
+     }
+    ],
+    "horizon": "End-2027",
+    "note": "",
+    "consensus": false
+   },
+   {
+    "firm": "Morgan Stanley",
+    "target": 8700,
+    "by": "2027-12-31",
+    "pub": "2026-11-16",
+    "src": [
+     {
+      "name": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/16/morgan-stanley-sp-500-target-2027.html"
+     },
+     {
+      "name": "Quartz",
+      "url": "https://qz.com/morgan-stanley-sp-500-target-2027-8700-111926"
+     }
+    ],
+    "horizon": "End-2027",
+    "note": "",
+    "consensus": false
+   },
+   {
+    "firm": "Yardeni Research",
+    "target": 9000,
+    "by": "2027-12-31",
+    "pub": "2026-11",
+    "src": [
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/no-bear-in-sight-major-wall-st-banks-set-2027-sp-500-targets-5041570"
+     }
+    ],
+    "horizon": "End-2027",
+    "note": "",
+    "consensus": false
+   },
+   {
+    "firm": "Barclays",
+    "target": 8800,
+    "by": "2027-12-31",
+    "pub": "2026-10",
+    "src": [
+     {
+      "name": "SimianX",
+      "url": "https://www.simianx.ai/stories/wall-street-sp-500-year-end-targets-forecast-vs-actual"
+     }
+    ],
+    "note": "Secondary source only",
+    "horizon": "End-2027",
+    "consensus": false
+   },
+   {
+    "firm": "UBS Global Wealth Management",
+    "target": 8200,
+    "by": "2027-12-31",
+    "pub": "2026-11",
+    "src": [
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/no-bear-in-sight-major-wall-st-banks-set-2027-sp-500-targets-5041570"
+     }
+    ],
+    "horizon": "End-2027",
+    "note": "",
+    "consensus": false
+   },
+   {
+    "firm": "Wells Fargo",
+    "target": 8200,
+    "by": "2027-12-31",
+    "pub": "2026-11",
+    "src": [
+     {
+      "name": "BigGo Finance",
+      "url": "https://finance.biggo.com/news/672cce5a-8438-4cb1-9065-9bd58d622b5b"
+     }
+    ],
+    "horizon": "End-2027",
+    "note": "",
+    "consensus": false
+   },
+   {
+    "firm": "Ned Davis Research",
+    "target": 8000,
+    "by": "2027-12-31",
+    "pub": "2026-11",
+    "src": [
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/no-bear-in-sight-major-wall-st-banks-set-2027-sp-500-targets-5041570"
+     }
+    ],
+    "horizon": "End-2027",
+    "note": "",
+    "consensus": false
+   },
+   {
+    "firm": "Panmure Liberum",
+    "target": 5000,
+    "by": "2027-12-31",
+    "pub": "2026-10-05",
+    "src": [
+     {
+      "name": "Hargreaves Lansdown (Reuters)",
+      "url": "https://www.hl.co.uk/news/panmure-liberum-forecasts-sp-500-falling-to-5000-warns-bull-run-nearing-end"
+     }
+    ],
+    "note": "Bear case: bull market ending",
+    "horizon": "End-2027",
+    "consensus": false
+   },
+   {
+    "firm": "Bloomberg survey average (8 strategists)",
+    "target": 8638,
+    "by": "2027-12-31",
+    "pub": "2026-11-20",
+    "consensus": true,
+    "src": [
+     {
+      "name": "Investing.com",
+      "url": "https://www.investing.com/news/stock-market-news/no-bear-in-sight-major-wall-st-banks-set-2027-sp-500-targets-5041570"
+     }
+    ],
+    "horizon": "End-2027",
+    "note": ""
+   }
+  ],
+  "sxxp": [
+   {
+    "firm": "HSBC",
+    "target": 760,
+    "by": "2027-12-31",
+    "pub": "2026",
+    "src": [
+     {
+      "name": "CoinCentral (Reuters)",
+      "url": "https://coincentral.com/?p=211637"
+     },
+     {
+      "name": "Parameter",
+      "url": "https://parameter.io/hsbc-upgrades-european-equity-outlook-raises-stoxx-600-price-target/"
+     }
+    ],
+    "note": "Publication month not stated in source",
+    "horizon": "End-2027",
+    "consensus": false
+   },
+   {
+    "firm": "UBS",
+    "target": 750,
+    "by": "2027-12-31",
+    "pub": "2026",
+    "src": [
+     {
+      "name": "Briefs (Bloomberg)",
+      "url": "https://www.briefs.co/?p=30786"
+     }
+    ],
+    "note": "Publication month not stated in source",
+    "horizon": "End-2027",
+    "consensus": false
+   },
+   {
+    "firm": "Goldman Sachs",
+    "target": 700,
+    "by": "2027-11-13",
+    "pub": "2026-11-13",
+    "horizon": "12-month",
+    "src": [
+     {
+      "name": "The Edge (Reuters)",
+      "url": "https://theedgemalaysia.com/node/825650"
+     },
+     {
+      "name": "Newsweek Japan (Reuters)",
+      "url": "https://www.newsweekjapan.jp/articles/-/340089"
+     }
+    ],
+    "note": "",
+    "consensus": false
+   },
+   {
+    "firm": "Citi",
+    "target": 700,
+    "by": "2027-06-30",
+    "pub": "2026",
+    "horizon": "mid-2027",
+    "src": [
+     {
+      "name": "Newsquawk",
+      "url": "https://www.newsquawk.com/headlines/citi-stays-constructive-on-european-equities-to-mid-2027-despite-macro-headwinds"
+     }
+    ],
+    "note": "",
+    "consensus": false
+   },
+   {
+    "firm": "Panmure Liberum",
+    "target": 430,
+    "by": "2027-12-31",
+    "pub": "2026-10-05",
+    "src": [
+     {
+      "name": "Kitco (Reuters)",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-10-05/panmure-liberum-forecasts-sp-500-falling-5000-warns-bull-run-nearing"
+     }
+    ],
+    "note": "Bear case",
+    "horizon": "End-2027",
+    "consensus": false
+   }
+  ],
+  "ftse": [
+   {
+    "firm": "Goldman Sachs",
+    "target": 11400,
+    "by": "2027-08-31",
+    "pub": "2026-08",
+    "horizon": "12-month",
+    "src": [
+     {
+      "name": "PrimeXBT",
+      "url": "https://primexbt.com/market-research/ftse-100-forecast/"
+     }
+    ],
+    "note": "Secondary source only",
+    "consensus": false
+   },
+   {
+    "firm": "UBS",
+    "target": 11300,
+    "by": "2027-06-30",
+    "pub": "2026",
+    "horizon": "June 2027",
+    "src": [
+     {
+      "name": "interactive investor",
+      "url": "https://www.ii.co.uk/analysis-commentary/analyst-predicts-ftse-100-break-above-12000-ii539324"
+     }
+    ],
+    "note": "Bull scenario 12,300 by June 2027",
+    "consensus": false
+   },
+   {
+    "firm": "Panmure Liberum",
+    "target": 8260,
+    "by": "2027-12-31",
+    "pub": "2026-10-05",
+    "src": [
+     {
+      "name": "Kitco (Reuters)",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-10-05/panmure-liberum-forecasts-sp-500-falling-5000-warns-bull-run-nearing"
+     }
+    ],
+    "note": "Bear case",
+    "horizon": "End-2027",
+    "consensus": false
+   }
+  ],
+  "dax": [
+   {
+    "firm": "DZ Bank",
+    "target": 28500,
+    "by": "2027-12-31",
+    "pub": "2026-11",
+    "src": [
+     {
+      "name": "Aktiencheck",
+      "url": "https://aktiencheck.de/artikel/dax-rekordwoche-ausblick-bis-2027"
+     },
+     {
+      "name": "Börsen-Zeitung",
+      "url": "https://www.boersen-zeitung.de/kapitalmaerkte/dax-klettert-zum-ersten-mal-ueber-27-000-punkte-2"
+     }
+    ],
+    "horizon": "End-2027",
+    "note": "",
+    "consensus": false
+   },
+   {
+    "firm": "Deutsche Bank Private Bank CIO",
+    "target": 28600,
+    "by": "2027-09-30",
+    "pub": "2026-10",
+    "horizon": "Sept 2027",
+    "src": [
+     {
+      "name": "NAGA",
+      "url": "https://naga.com/en/lat/news-and-analysis/articles/pronostico-dax-40-predicciones-precio"
+     }
+    ],
+    "note": "",
+    "consensus": false
+   },
+   {
+    "firm": "DekaBank",
+    "target": 28000,
+    "by": "2027-10-31",
+    "pub": "2026-10",
+    "horizon": "12-month",
+    "src": [
+     {
+      "name": "NAGA",
+      "url": "https://naga.com/en/lat/news-and-analysis/articles/pronostico-dax-40-predicciones-precio"
+     }
+    ],
+    "note": "",
+    "consensus": false
+   },
+   {
+    "firm": "Helaba",
+    "target": 27500,
+    "by": "2027-06-30",
+    "pub": "2026-10",
+    "horizon": "mid-2027",
+    "src": [
+     {
+      "name": "NAGA",
+      "url": "https://naga.com/en/lat/news-and-analysis/articles/pronostico-dax-40-predicciones-precio"
+     }
+    ],
+    "note": "",
+    "consensus": false
+   },
+   {
+    "firm": "Berenberg",
+    "target": 27000,
+    "by": "2027-06-30",
+    "pub": "2026-10",
+    "horizon": "mid-2027",
+    "src": [
+     {
+      "name": "NAGA",
+      "url": "https://naga.com/en/lat/news-and-analysis/articles/pronostico-dax-40-predicciones-precio"
+     }
+    ],
+    "note": "",
+    "consensus": false
+   }
+  ],
+  "n225": [
+   {
+    "firm": "Nomura",
+    "target": 73000,
+    "by": "2027-12-31",
+    "pub": "2026-08-10",
+    "src": [
+     {
+      "name": "Nomura Securities",
+      "url": "https://www.nomura.co.jp/wealthstyle/article/0833/"
+     },
+     {
+      "name": "Börsen-Zeitung",
+      "url": "https://www.boersen-zeitung.de/kapitalmaerkte/japans-aktienmarkt-verliert-an-schwung"
+     }
+    ],
+    "note": "Upside scenario 83,000",
+    "horizon": "End-2027",
+    "consensus": false
+   }
+  ],
+  "nifty": [
+   {
+    "firm": "Goldman Sachs",
+    "target": 28500,
+    "by": "2027-12-31",
+    "pub": "2026-11-18",
+    "src": [
+     {
+      "name": "Business Today",
+      "url": "https://www.businesstoday.in/markets/stocks/story/nifty-at-28500-by-2027-sunil-koul-of-goldman-sachs-on-its-india-overweight-stance-568153-2026-11-18"
+     },
+     {
+      "name": "NewKerala",
+      "url": "https://www.newkerala.com/news/a/goldman-sachs-upgrades-india-overweight-sets-nifty-target-314.htm"
+     }
+    ],
+    "horizon": "End-2027",
+    "note": "",
+    "consensus": false
+   },
+   {
+    "firm": "Citi",
+    "target": 28000,
+    "by": "2027-12-31",
+    "pub": "2026-11-09",
+    "src": [
+     {
+      "name": "The Edge Malaysia",
+      "url": "https://theedgemalaysia.com/node/825027"
+     },
+     {
+      "name": "The Star",
+      "url": "https://www.thestar.com.my/business/business-news/2026/11/09/citi-hsbc-bet-on-india-as-oil-slide-ai-rotation-fuel-market-revival"
+     }
+    ],
+    "horizon": "End-2027",
+    "note": "",
+    "consensus": false
+   }
+  ],
+  "gold": [
+   {
+    "firm": "J.P. Morgan",
+    "target": 6300,
+    "by": "2027-12-31",
+    "pub": "2026-06",
+    "horizon": "Q4 2027",
+    "src": [
+     {
+      "name": "J.P. Morgan Research",
+      "url": "https://www.jpmorgan.com/insights/global-research/commodities/gold-market"
+     },
+     {
+      "name": "NewsBytes",
+      "url": "https://www.newsbytesapp.com/news/business/jp-morgan-says-gold-6300-by-2027-6000-late-2026/tldr"
+     }
+    ],
+    "note": "",
+    "consensus": false
+   },
+   {
+    "firm": "Crédit Agricole",
+    "target": 5500,
+    "by": "2027-12-31",
+    "pub": "2026",
+    "src": [
+     {
+      "name": "Finbold",
+      "url": "https://finbold.com/gold-price-prediction-for-2027-what-jpmorgan-and-other-experts-expect/"
+     }
+    ],
+    "note": "Publication month not stated in source",
+    "horizon": "End-2027",
+    "consensus": false
+   },
+   {
+    "firm": "UBS",
+    "target": 5000,
+    "by": "2027-06-30",
+    "pub": "2026-08-11",
+    "horizon": "H1 2027",
+    "src": [
+     {
+      "name": "Ainslie Bullion",
+      "url": "https://ainsliebullion.com.au/News-Resources/Article/UBS-Holds-Firm-on-US-5-000-Gold/ID/9141"
+     },
+     {
+      "name": "Kitco",
+      "url": "https://www.kitco.com/news/article/2026-08-13/ubs-sees-gold-price-challenging-5000oz-h1-2027-lower-real-rates-softer-usd"
+     }
+    ],
+    "note": "",
+    "consensus": false
+   },
+   {
+    "firm": "Goldman Sachs",
+    "target": 4650,
+    "by": "2027-12-31",
+    "pub": "2026-11-16",
+    "src": [
+     {
+      "name": "investingLive",
+      "url": "https://investinglive.com/commodities/goldman-s-second-gold-forecast-downgrade-in-a-month-turns-its-bear-case-into-the-base-case/"
+     },
+     {
+      "name": "Kitco",
+      "url": "https://kitco.com/news/article/2026-11-13/goldman-sachs-cuts-year-end-gold-price-target-4150oz-2027-target-4800oz"
+     }
+    ],
+    "note": "Second cut in a month (from 4,800)",
+    "horizon": "End-2027",
+    "consensus": false
+   }
+  ],
+  "brent": [
+   {
+    "firm": "Goldman Sachs",
+    "target": 78,
+    "by": "2027-12-31",
+    "pub": "2026-11-15",
+    "src": [
+     {
+      "name": "BOE Report (Reuters)",
+      "url": "https://boereport.com/2026/11/15/goldman-sees-brent-easing-to-78-a-barrel-by-end-2027-as-markets-adapt/amp/"
+     },
+     {
+      "name": "PrimeXBT",
+      "url": "https://primexbt.com/news/goldman-sachs-forecasts-9-total-return-for-european-stocks-in-2027/"
+     }
+    ],
+    "horizon": "End-2027",
+    "note": "",
+    "consensus": false
+   }
+  ],
+  "copper": [
+   {
+    "firm": "Goldman Sachs",
+    "target": 7.076,
+    "by": "2027-12-31",
+    "pub": "2026-11-12",
+    "src": [
+     {
+      "name": "Canadian Mining Report",
+      "url": "https://www.canadianminingreport.com/blog/goldman-sees-copper-at-15-600-a-ton-by-december-2027-but-flags-downside-risks"
+     },
+     {
+      "name": "Finimize",
+      "url": "https://finimize.com/content/goldman-sees-a-lower-ceiling-for-copper-after-the-midterms"
+     }
+    ],
+    "note": "LME US$15,600/t converted to $/lb; COMEX can trade at a premium to LME",
+    "horizon": "End-2027",
+    "consensus": false
+   }
+  ],
+  "eurusd": [
+   {
+    "firm": "Commerzbank",
+    "target": 1.18,
+    "by": "2027-12-31",
+    "pub": "2026-09-18",
+    "src": [
+     {
+      "name": "FXStreet",
+      "url": "https://www.fxstreet.com/news/euro-dollar-weakness-delayed-as-fed-stays-hawkish-commerzbank-202609180726"
+     }
+    ],
+    "horizon": "End-2027",
+    "note": "",
+    "consensus": false
+   },
+   {
+    "firm": "MUFG",
+    "target": 1.16,
+    "by": "2027-06-30",
+    "pub": "2026-11",
+    "horizon": "Q2 2027",
+    "src": [
+     {
+      "name": "MUFG Research",
+      "url": "https://mufgresearch.com/fx/monthly-foreign-exchange-outlook-november-2026/"
+     }
+    ],
+    "note": "",
+    "consensus": false
+   }
+  ],
+  "usdjpy": [
+   {
+    "firm": "MUFG",
+    "target": 149,
+    "by": "2027-09-30",
+    "pub": "2026-11",
+    "horizon": "Q3 2027",
+    "src": [
+     {
+      "name": "MUFG Research",
+      "url": "https://mufgresearch.com/fx/monthly-foreign-exchange-outlook-november-2026/"
+     }
+    ],
+    "note": "",
+    "consensus": false
+   }
+  ],
+  "dxy": [
+   {
+    "firm": "MUFG",
+    "target": 97.03,
+    "by": "2027-09-30",
+    "pub": "2026-11",
+    "horizon": "Q3 2027",
+    "src": [
+     {
+      "name": "MUFG Research",
+      "url": "https://mufgresearch.com/fx/monthly-foreign-exchange-outlook-november-2026/"
+     }
+    ],
+    "note": "",
+    "consensus": false
+   }
+  ]
+ }
+}
